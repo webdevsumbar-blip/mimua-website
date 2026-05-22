@@ -1,0 +1,10 @@
+export const faqs = [
+  { id: 1, question: 'Berapa lama sebelumnya harus booking MIMUA?',        answer: 'Minimal booking 2 minggu sebelum hari H. Untuk wedding atau prewedding sangat disarankan 2-3 bulan sebelumnya, terutama di musim pernikahan karena jadwal sangat cepat penuh.' },
+  { id: 2, question: 'Bagaimana cara booking MIMUA?',                       answer: '1. Hubungi via WhatsApp\n2. Informasikan tanggal, jenis acara, dan lokasi\n3. Diskusikan paket yang sesuai\n4. Bayar DP minimal 50% untuk mengunci tanggal\n5. Tanggal terkonfirmasi!' },
+  { id: 3, question: 'Berapa besar DP yang harus dibayarkan?',              answer: 'DP minimal 50% dari total harga. Pelunasan maksimal H-3 sebelum acara. DP tidak bisa dikembalikan jika terjadi pembatalan.' },
+  { id: 4, question: 'Apakah harga sudah termasuk biaya transport?',        answer: 'Belum. Biaya transport dihitung terpisah berdasarkan lokasi dan akan diinformasikan saat konfirmasi booking.' },
+  { id: 5, question: 'Apakah MIMUA datang ke lokasi atau harus ke studio?', answer: 'MIMUA adalah layanan home service, kami yang datang ke lokasimu. Bisa di rumah, hotel, gedung, atau venue manapun.' },
+  { id: 6, question: 'Apa perbedaan Tanpa Retouch dan Dengan Retouch?',     answer: 'Tanpa Retouch: MUA selesaikan makeup lalu pergi. Dengan Retouch: MUA standby dan touch-up sepanjang acara. Sangat direkomendasikan untuk acara seharian.' },
+  { id: 7, question: 'Apa yang perlu dipersiapkan sebelum sesi makeup?',    answer: 'Wajah bersih dari skincare/makeup, moisturizer 30 menit sebelum sesi, siapkan referensi look (foto/Pinterest), informasikan jenis kulit dan kondisi khusus, area yang cukup terang.' },
+  { id: 8, question: 'Berapa lama proses makeup berlangsung?',              answer: 'Wedding pengantin: 3-4 jam. Prewedding/Engagement: 1,5-2 jam. Wisuda/Sweet 17: 1,5-2 jam. Party: 1,5-2 jam. Mama/Mature: 2-2,5 jam.' },
+]

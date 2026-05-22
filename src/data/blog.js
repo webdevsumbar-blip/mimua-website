@@ -1,0 +1,5 @@
+export const blogPosts = [
+  { id: 1, title: '7 Tips Mudah Menghemat Biaya Pernikahan',        excerpt: 'Rencana pernikahan membutuhkan anggaran yang matang. Berikut 7 tips praktis yang bisa kamu terapkan agar pernikahan tetap berkesan tanpa menguras kantong.', date: '15 November 2025', category: 'Wedding Tips', slug: '7-tips-hemat-biaya-pernikahan' },
+  { id: 2, title: 'Cara Memakai Eyeshadow yang Benar untuk Pemula', excerpt: 'Riasan mata adalah salah satu hal terpenting dalam tampilan makeup. Pelajari teknik dan urutan aplikasi eyeshadow yang benar agar hasilnya flawless.',           date: '20 Agustus 2025', category: 'Tutorial',     slug: 'cara-memakai-eyeshadow-pemula' },
+  { id: 3, title: 'Tips Makeup untuk Kulit Kering Agar Tahan Lama', excerpt: 'Kulit kering membutuhkan persiapan khusus sebelum makeup. Ikuti tips berikut agar riasanmu tetap flawless dan tahan lama sepanjang hari.',                        date: '10 Januari 2026',   category: 'Tips Makeup', slug: 'makeup-kulit-kering-tahan-lama' },
+]
